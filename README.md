@@ -1,6 +1,6 @@
 # Movie-Ticket-Booking-System
 
-Type "npm start" to run the program
+when open the project, Type "npm start" to run the program
 
 **Technologies used :** 
 React, Nodejs
