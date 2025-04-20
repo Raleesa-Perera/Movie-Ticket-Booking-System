@@ -4,6 +4,7 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 ![Movie](https://github.com/user-attachments/assets/1202a48a-627e-4b12-b235-6007a681ec67)
 
+
 <h2>📽️ Features</h2> 
 
 🎟️ Book movie tickets with a seamless UI
@@ -13,6 +14,7 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 📺 Watch YouTube trailers directly within the app
 
 📆 View showtimes and seat availability
+
 
 <h2>✨ Getting Started </h2>
 
@@ -28,6 +30,7 @@ npm install </code></pre>
 <h3>🎬🍿 Run the App</h3>
 
 <pre><code>npm start</code></pre>
+
 
 <!--When open the project, Type "npm start" to run the program
 
