@@ -16,6 +16,8 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 <h3>📥 Clone the Repository </h3>
 
+`https://github.com/Raleesa-Perera/Movie-Ticket-Booking-System.git`
+
 When open the project, Type "npm start" to run the program
 
 **Technologies used :** 
