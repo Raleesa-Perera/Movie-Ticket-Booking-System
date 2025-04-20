@@ -1,5 +1,7 @@
 # Movie-Ticket-Booking-System
 
+An all-in-one web application to book movie tickets online, explore trailers, and manage bookings effortlessly.
+
 When open the project, Type "npm start" to run the program
 
 **Technologies used :** 
