@@ -20,7 +20,8 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 <h3>🛠️ Install Dependencies</h3>
 
-<pre><code>cd Frontend npm install </code></pre>
+<pre><code>cd movie-ticket-booking
+npm install </code></pre>
 
 <h3>🎬🍿 Run the App</h3>
 
