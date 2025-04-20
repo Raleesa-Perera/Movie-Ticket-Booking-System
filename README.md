@@ -12,12 +12,19 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 📆 View showtimes and seat availability
 
-<h2>🚀 Getting Started </h2>
+<h2>✨ Getting Started </h2>
 
-<h3>📥 Clone the Repository </h3>
+<h3>📂 Clone the Repository </h3>
 
-`https://github.com/Raleesa-Perera/Movie-Ticket-Booking-System.git`
-<pre><code> https://github.com/Raleesa-Perera/Movie-Ticket-Booking-System.git </code></pre>
+<pre><code>git clone https://github.com/Raleesa-Perera/Movie-Ticket-Booking-System.git </code></pre>
+
+<h3>🛠️ Install Dependencies</h3>
+
+<pre><code>cd Frontend npm install </code></pre>
+
+<h3>🎬🍿 Run the App</h3>
+
+<pre><code>npm start</code></pre>
 
 When open the project, Type "npm start" to run the program
 
