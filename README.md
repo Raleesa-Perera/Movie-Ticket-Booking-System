@@ -12,6 +12,10 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 📆 View showtimes and seat availability
 
+<h2>🚀 Getting Started </h2>
+
+<h3>📥 Clone the Repository </h3>
+
 When open the project, Type "npm start" to run the program
 
 **Technologies used :** 
