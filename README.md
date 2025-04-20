@@ -26,12 +26,12 @@ An all-in-one web application to book movie tickets online, explore trailers, an
 
 <pre><code>npm start</code></pre>
 
-When open the project, Type "npm start" to run the program
+<!--When open the project, Type "npm start" to run the program
 
 **Technologies used :** 
 React, Nodejs
 
-Youtube Trailers watching facility of films also included to this project
+Youtube Trailers watching facility of films also included to this project -->
 
 ![Movie](https://github.com/user-attachments/assets/1202a48a-627e-4b12-b235-6007a681ec67)
 
