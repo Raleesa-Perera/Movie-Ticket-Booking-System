@@ -2,7 +2,7 @@
 
 An all-in-one web application to book movie tickets online, explore trailers, and manage bookings effortlessly.
 
-# 📽️ Features
+<h2>📽️ Features</h2> 
 🎟️ Book movie tickets with a seamless UI
 
 🔍 Browse available movies with detailed info
