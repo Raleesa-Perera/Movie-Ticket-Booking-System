@@ -2,6 +2,8 @@
 
 An all-in-one web application to book movie tickets online, explore trailers, and manage bookings effortlessly.
 
+![Movie](https://github.com/user-attachments/assets/1202a48a-627e-4b12-b235-6007a681ec67)
+
 <h2>📽️ Features</h2> 
 
 🎟️ Book movie tickets with a seamless UI
@@ -34,8 +36,6 @@ React, Nodejs
 
 Youtube Trailers watching facility of films also included to this project -->
 <h2>📸 Images of the System</h2> 
-
-![Movie](https://github.com/user-attachments/assets/1202a48a-627e-4b12-b235-6007a681ec67)
 
 ![Movie02](https://github.com/user-attachments/assets/3f9cc890-c95b-4584-b580-aa5f296a3ec2)
 
