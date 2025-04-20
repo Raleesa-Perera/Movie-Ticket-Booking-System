@@ -2,6 +2,15 @@
 
 An all-in-one web application to book movie tickets online, explore trailers, and manage bookings effortlessly.
 
+# 📽️ Features
+🎟️ Book movie tickets with a seamless UI
+
+🔍 Browse available movies with detailed info
+
+📺 Watch YouTube trailers directly within the app
+
+📆 View showtimes and seat availability
+
 When open the project, Type "npm start" to run the program
 
 **Technologies used :** 
